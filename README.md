@@ -16,6 +16,20 @@ Uma empresa que oferece empréstimos a pessoas físicas precisa mitigar riscos f
 
 ---
 
+### 📄 Materiais de Apoio
+
+Para uma compreensão detalhada das diretrizes do projeto, consulte o documento oficial disponibilizado pelo professor:
+
+* 📥 **[PDF] Explicação da Atividade:** Disponível no arquivo anexado neste repositório: `Segundo_trabalho_27112025.pdf`.
+
+---
+
+### 🖼️ Apresentação do Projeto
+
+O arquivo de apresentação do projeto está disponível na raiz deste repositório para consulta detalhada das métricas obtidas: `Apresentação Albaro - Projeto 2.pdf`
+
+---
+
 ### 🛠️ Tecnologias e Bibliotecas
 
 Para este projeto, utilizamos o **CatBoost** como modelo principal devido à sua excelente performance com dados categóricos, além de outras ferramentas essenciais:
@@ -38,7 +52,7 @@ Para este projeto, utilizamos o **CatBoost** como modelo principal devido à sua
 
 ### 💾 Como Executar
 
-1. Baixe o arquivo disponibilizado neste repositório
+1. Baixe o arquivo disponibilizado neste repositório `emprestamo.csv`
 2. Importe o arquivo baixado
 3. Importe as bibliotecas informadas acima
 4. Execute o arquivo Jupyter Notebook para visualizar todo o processo de pré-processamento e treinamento.
